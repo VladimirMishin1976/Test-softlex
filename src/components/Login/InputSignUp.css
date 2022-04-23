@@ -1,0 +1,36 @@
+.input-signup {
+  display: flex;
+  flex-direction: column;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  color: #A0A0A0;
+}
+
+.input-signup__input {
+  border: none;
+  border-bottom: 1px solid #E8E8E8;
+  padding: 6px 0 9px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.input-signup__input:invalid {
+  color: #FF4062;
+}
+
+.input-signup__input:focus-visible {
+  outline: none;
+}
+
+.input-signup__error {
+  min-height: 12px;
+  font-size: 10px;
+  line-height: 12px;
+  color: #FF4062;
+  padding-top: 5px;
+}

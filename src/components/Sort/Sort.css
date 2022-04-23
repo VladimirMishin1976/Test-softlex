@@ -1,0 +1,17 @@
+.sort h2 {
+  font-size: 1.2rem;
+  margin: .4em 0;
+}
+
+.sort button {
+  border-radius: .5em;
+}
+
+.sort label {
+  margin-right: 2em;
+  padding-left: .5em;
+}
+
+.sort label:hover, .sort input:hover {
+  cursor: pointer;
+}

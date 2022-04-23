@@ -1,0 +1,30 @@
+.add-task {
+  width: 70%;
+  min-width: 30em;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-task input{
+  border-radius: .3em;
+  padding: .1em .5em;
+}
+
+.add-task label {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-task span {
+  color: #FF4062;
+  min-height: 1.5em;
+}
+
+.add-task button {
+  position: relative;
+  min-width: 5em;
+  width: fit-content;
+  min-height: 1.5em;
+  padding: .2em;
+}
+
