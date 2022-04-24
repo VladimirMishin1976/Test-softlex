@@ -1,8 +1,8 @@
 {
-  "name": "Test-softlex",
-  "homepage": "https://vladimirmishin1976.github.io/Test-softlex/",
+  "name": "softlex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://VladimirMishin1976.github.io/Test-softlex/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -13,13 +13,13 @@
     "validator": "^13.7.0",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+  "scripts": {   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
