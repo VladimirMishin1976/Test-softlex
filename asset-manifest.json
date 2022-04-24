@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Test-softlex/static/css/main.db92f569.css",
+    "main.js": "/Test-softlex/static/js/main.44f09615.js",
+    "static/js/787.35c8fb4b.chunk.js": "/Test-softlex/static/js/787.35c8fb4b.chunk.js",
+    "index.html": "/Test-softlex/index.html",
+    "static/media/close-icon.svg": "/Test-softlex/static/media/close-icon.d775ec4f15528d518346.svg",
+    "main.db92f569.css.map": "/Test-softlex/static/css/main.db92f569.css.map",
+    "main.44f09615.js.map": "/Test-softlex/static/js/main.44f09615.js.map",
+    "787.35c8fb4b.chunk.js.map": "/Test-softlex/static/js/787.35c8fb4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db92f569.css",
+    "static/js/main.44f09615.js"
+  ]
+}
