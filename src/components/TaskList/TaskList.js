@@ -1,10 +1,10 @@
 import React from "react";
 import './TaskList.css';
 
-function TaskList({ tasks, handleChangeTask }) {
+function TaskList({ tasks, handleOpenEditTask }) {
 
   const changeTask = (task) => {
-    handleChangeTask(task);
+    handleOpenEditTask(task);
   }
 
   return (

@@ -8,7 +8,8 @@ ul, li {
 
 
 body {
-  --text-error: rgb(224, 97, 97);;
+  --text-error: rgb(224, 97, 97);
+  ;
   background-color: rgb(222, 231, 230);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

@@ -14,7 +14,7 @@ ul.pagination li {
   text-decoration: none;
   border: 2px solid rgb(95, 136, 116);
   border-radius: 1em;
-  text-align: center;
+  text-align: center;  
 }
 
 ul.pagination li:hover {
@@ -28,7 +28,7 @@ ul.pagination .inactive {
 }
 
 ul.pagination .pagination__current {
-  background-color: rgb(195, 240, 225); 
+  background-color: rgb(195, 240, 225);
 }
 
 ul.pagination .pagination__current:hover {

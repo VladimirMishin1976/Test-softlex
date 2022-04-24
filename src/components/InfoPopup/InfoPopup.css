@@ -57,3 +57,7 @@
 .popup .error {
   color: var(--text-error);
 }
+
+.popup button {
+  cursor: pointer;
+}

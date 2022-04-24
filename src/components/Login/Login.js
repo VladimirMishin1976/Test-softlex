@@ -12,7 +12,7 @@ function Login({ handleLogin }) {
     e.preventDefault();
     const loginFormData = new FormData(e.target);
     handleLogin(loginFormData);
-    // resetForm();
+    resetForm();
   }
 
 
